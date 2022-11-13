@@ -135,6 +135,20 @@
                 "column": 9
             },
             {
+
+                "name": "Constituional Monarchy",
+                "uniques": [
+                    "[+1]% Gold] from [All] tiles [in all cities]",
+                    "[+1] Movement <for [embarked] units>"
+"[+2] Movement <for [land units] units>"
+                    "Only available <before adopting [Representative Democracy]>",
+            "Only available <before adopting [Colonial Empire]>",
+                    "Only available <starting from the [Renaissance era]>"
+                ],
+                "row": 2,
+                "column": 11
+            },
+            {
                 "name": "City States",
                 "uniques": [
                     "[+4 Gold, +2 Happiness, +1 Culture] from each Trade Route"
